@@ -1,2 +1,2 @@
-# TercerQuizProgramacionPython
-Aplicación para medir lo aprendido en el lengua de programación python
+# PrimerQuizBioPythonV1
+Aplicación para verificar lo aprendido en el curso
